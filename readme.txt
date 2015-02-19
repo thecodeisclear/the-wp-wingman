@@ -1,7 +1,6 @@
 === The WP Wingman ===
 Contributors: thecodeisclear
 Tags: humor, dashboard, widget, brocode, quotes
-Donate link: http://paypal.com
 Requires at least: 2.7
 Tested up to: 4.1
 Stable tag: 1.0
